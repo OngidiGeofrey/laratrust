@@ -58,7 +58,7 @@
 
                 <option value="Student">Student</option>
                 <option value="Teacher">Teacher</option>
-                <option value="admin">  Admin</option>
+                <option value="admin">Admin</option>
                 </optgroup>
 
 
