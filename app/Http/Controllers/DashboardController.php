@@ -21,12 +21,12 @@ class DashboardController extends Controller
 
         }
 
-        elseif(Auth::user()->hasRole('Teacher'))
+       /* elseif(Auth::user()->hasRole('Teacher'))
         {
             
             return view('teacherDashboard');
 
-        }
+        }*/
     }
    
 }
